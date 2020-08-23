@@ -1,5 +1,5 @@
 const word = document.getElementById('word'); 
-const text = document.getElementById('text');
+const text = document.getElementById('text'); 
 const scoreEl = document.getElementById('score');
 const timeEl = document.getElementById('time');
 const endgameEl = document.getElementById('end-game-container');
