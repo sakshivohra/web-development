@@ -1,4 +1,4 @@
-const word = document.getElementById('word');
+const word = document.getElementById('word'); 
 const text = document.getElementById('text');
 const scoreEl = document.getElementById('score');
 const timeEl = document.getElementById('time');
